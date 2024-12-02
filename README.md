@@ -1,1 +1,2 @@
 # Bookstore
+This project implements a book inventory management system for a bookstore, featuring the Store and Book classes. The Store class manages an inventory of books, providing functionalities such as adding, finding, selling, displaying, sorting by various attributes, and summarizing books by genre. The Book class encapsulates individual book details like title, author, genre, and price, ensuring consistent formatting and validation for operations.
